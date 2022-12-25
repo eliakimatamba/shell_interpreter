@@ -4,7 +4,7 @@
 Objectives
 ----------
 
-There are three objectives to this assignment:
+There are three objectives to this task:
 
 • To familiarize yourself with the Linux programming environment.
 
@@ -15,7 +15,7 @@ There are three objectives to this assignment:
 
 Overview
 --------
-In this assignment, you will implement a command line interpreter or, as it is more commonly known, a shell. The shell should operate in this basic way: when you type in a command (in response to its prompt), the shell creates a child process that executes the command you entered and then prompts for more user input when it has finished.
+In this task, you will implement a command line interpreter or, as it is more commonly known, a shell. The shell should operate in this basic way: when you type in a command (in response to its prompt), the shell creates a child process that executes the command you entered and then prompts for more user input when it has finished.
 
 The shells you implement will be similar to, but simpler than, the one you run every day in Unix. You can find out which shell you are running by typing "echo $SHELL" at a prompt. You may then wish to look at the man pages for 'csh' or the shell you are running (more likely tcsh, or bash, or for those few wacky ones in the crowd, zsh or ksh) to learn more about all of the functionality that can be present. For this project, you do not need to implement too much functionality.
 
@@ -241,7 +241,7 @@ Miscellaneous Details
 Hints
 -----
 
-Writing your shell in a simple manner is a matter of finding the relevant library routines and calling them properly. To simplify things for you in this assignment, we will suggest a few library routines you may want to use to make your coding easier. To find information on these library routines, look at the manual pages (using the Unix command man).
+Writing your shell in a simple manner is a matter of finding the relevant library routines and calling them properly. To simplify things for you in this task, we will suggest a few library routines you may want to use to make your coding easier. To find information on these library routines, look at the manual pages (using the Unix command man).
 
 
 • Basic Shell
